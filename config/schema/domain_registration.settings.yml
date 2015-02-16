@@ -1,0 +1,10 @@
+domain_registration.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    domain_registration_method:
+      type: integer
+    domain_registration_message:
+      type: string
+    domain_registration:
+      type: text
